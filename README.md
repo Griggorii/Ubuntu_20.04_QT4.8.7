@@ -7,6 +7,10 @@ Install command terminal paste enter , exit session run new session:
 
 $ sudo tar xvpf QT4.8.7_By_Griggorii.tar.xz -C /
 
+$ mkdir ~/.config/QtProject
+
+$ cp Designer.conf ~/.config/QtProject
+
 Uninstall qt demo:
 
 $ sudo rm -rf /usr/lib/qt4 /usr/lib/x86_64-linux-gnu/qt4/bin/qtdemo
