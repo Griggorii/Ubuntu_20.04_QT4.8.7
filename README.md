@@ -20,6 +20,8 @@ $ sudo rm -rf /usr/lib/qt4 /usr/lib/x86_64-linux-gnu/qt4/bin/qtdemo
 Exaple environment edit default gtk2:
 
 export QT_QPA_PLATFORMTHEME=gtk2
+
 QT_X11_NO_MITSHM=1
+
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 
