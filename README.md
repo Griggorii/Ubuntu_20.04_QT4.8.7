@@ -13,6 +13,10 @@ $ mkdir ~/.config/QtProject
 
 $ cp Designer.conf ~/.config/QtProject
 
+https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
+
+https://github.com/Griggorii/Setting_dconf_linux_OS20.04_V46.0_By_Griggorii_Wayland_adaptation
+
 Uninstall qt demo:
 
 $ sudo rm -rf /usr/lib/qt4 /usr/lib/x86_64-linux-gnu/qt4/bin/qtdemo
