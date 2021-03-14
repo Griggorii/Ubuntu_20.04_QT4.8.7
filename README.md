@@ -7,6 +7,8 @@ Install command terminal paste enter , exit session run new session:
 
 $ sudo tar xvpf QT4.8.7_By_Griggorii.tar.xz -C /
 
+$ sudo cp environment /etc
+
 $ mkdir ~/.config/QtProject
 
 $ cp Designer.conf ~/.config/QtProject
