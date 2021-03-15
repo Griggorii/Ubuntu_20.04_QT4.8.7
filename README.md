@@ -1,5 +1,5 @@
 # Ubuntu_20.04_QT4.8.7 desinger
-Ubuntu , 20.04 , QT4.8.7 , griggorii developer , gui best , fonts not bage , old quality , danger only ubuntu 20.04 install < onli libc-2.31.so 
+Ubuntu , 20.04 , QT4.8.7 , griggorii developer , gui best , fonts not bage , canvas , old quality , danger only ubuntu 20.04 install < onli libc-2.31.so 
 
 Download tar.xz: https://github.com/Griggorii/Ubuntu_20.04_QT4.8.7/releases/tag/QT4.8.7
 
