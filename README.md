@@ -3,9 +3,11 @@ Ubuntu , 20.04 , QT4.8.7 , griggorii developer , gui best , fonts not bage , per
 
 Download tar.xz: https://github.com/Griggorii/Ubuntu_20.04_QT4.8.7/releases/tag/QT4.8.7
 
-Install command terminal paste enter , exit session run new session:
+Install command terminal paste enter variant gcc-9 and gcc-10 , exit session run new session:
 
-$ sudo tar xvpf QT4.8.7_By_Griggorii.tar.xz -C /
+$ sudo tar xvpf QT4.8.7_By_Griggorii_gcc-9.tar.xz -C /
+
+$ sudo tar xvpf QT4.8.7_By_Griggorii_gcc-10.tar.xz -C /
 
 $ sudo cp environment /etc
 
