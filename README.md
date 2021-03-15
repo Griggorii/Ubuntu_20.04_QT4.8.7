@@ -35,3 +35,74 @@ PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/u
 
 Данная модификация QT4.8.7 влияет на ui гиг тег ubu ntu 20.04 делая картинку более плотно пиксельной , но может быть и минус что на тех мониторах где был весь спектр sRGB цветов картинка может стать более темной что касается больше олед , ипс дисплеев и подобных опять же это может быть только в случае если скачали именно мою операционную систему в иных же случаях вам придется проити путь длинною в несколько световых лет , а это установить https://github.com/Griggorii/python3.8.5_ubuntu_20.04_new_rebuild_amd64.deb потом установить https://github.com/Griggorii/python3-numpy_1.17.4-5ubuntu4_amd64_package выполнить создание ссылок на python3.8 как показано тут https://github.com/Griggorii/MLT-Multimedia-Framework и только потом можно заметить что вся структура canvas скорее всего поменялась и рамки для заполнения стали черными в греискалинге 256 оттенков серого.
 
+Qt 3 compatibility ..... yes
+QtDBus module .......... yes (linked)
+QtConcurrent code ...... yes
+QtGui module ........... yes
+QtScript module ........ yes
+QtScriptTools module ... yes
+QtXmlPatterns module ... yes
+Phonon module .......... no
+Multimedia module ...... no
+SVG module ............. yes
+WebKit module .......... no
+JavaScriptCore JIT ..... To be decided by JavaScriptCore
+Declarative module ..... yes
+Declarative debugging ...yes
+Support for S60 ........ no
+Symbian DEF files ...... no
+STL support ............ yes
+PCH support ............ yes
+MMX/3DNOW/SSE/SSE2/SSE3. yes/yes/yes/yes/yes
+SSSE3/SSE4.1/SSE4.2..... yes/yes/yes
+AVX..................... yes
+Graphics System ........ default
+IPv6 support ........... yes
+IPv6 ifname support .... yes
+getaddrinfo support .... yes
+getifaddrs support ..... yes
+Accessibility .......... yes
+NIS support ............ yes
+CUPS support ........... yes
+Iconv support .......... yes
+Glib support ........... yes
+GStreamer support ...... no
+PulseAudio support ..... yes
+Large File support ..... yes
+GIF support ............ plugin
+TIFF support ........... plugin (system)
+JPEG support ........... plugin (system)
+PNG support ............ yes (system)
+MNG support ............ plugin (system)
+zlib support ........... system
+Session management ..... yes
+OpenGL support ......... yes (Desktop OpenGL)
+OpenVG support ......... no
+NAS sound support ...... system
+XShape support ......... yes
+XVideo support ......... yes
+XSync support .......... yes
+Xinerama support ....... runtime
+Xcursor support ........ runtime
+Xfixes support ......... runtime
+Xrandr support ......... runtime
+Xrender support ........ yes
+XInput2 support ........ yes
+Xi support ............. runtime
+MIT-SHM support ........ yes
+FontConfig support ..... yes
+XKB Support ............ yes
+immodule support ....... yes
+GTK theme support ...... yes
+MySQL support .......... plugin
+PostgreSQL support ..... plugin
+ODBC support ........... plugin
+TDS support ............ plugin
+SQLite support ......... plugin (qt)
+OpenSSL support ........ no 
+Alsa support ........... no
+ICD support ............ no
+libICU support ......... no
+Use system proxies ..... no
+
+
