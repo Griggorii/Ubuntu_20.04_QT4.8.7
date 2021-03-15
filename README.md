@@ -21,6 +21,8 @@ https://github.com/Griggorii/Setting_dconf_linux_OS20.04_V46.0_By_Griggorii_Wayl
 
 Easy My Os full rebuild: https://youtu.be/1ObAt1VPW60
 
+Specs /usr/share/qt4
+
 Uninstall qt demo:
 
 $ sudo rm -rf /usr/lib/qt4 /usr/lib/x86_64-linux-gnu/qt4/bin/qtdemo
