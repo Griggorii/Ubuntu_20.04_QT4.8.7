@@ -107,6 +107,6 @@ ICD support ............ no
 libICU support ......... no
 Use system proxies ..... no
 
-Fanny video delete adaptive new version: https://youtu.be/AGpgz0mU6PY
+Fanny video delete adaptive new version: https://youtu.be/AGpgz0mU6PY <-скорее всего это произошло по вине контрол-центр -> внешний вид тема оформления окон и где же исправление мы все видим люди получают деньги или же ютубную популярность которая уже начисляет монитизацию через прокси проваидеров только вот не видно что бы они вернули адаптацию для того что бы это так же хорошо работало.
 
 
