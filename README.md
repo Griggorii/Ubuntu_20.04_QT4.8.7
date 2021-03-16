@@ -9,6 +9,10 @@ $ sudo tar xvpf QT4.8.7_By_Griggorii_gcc-9.tar.xz -C /
 
 $ sudo tar xvpf QT4.8.7_By_Griggorii_gcc-10.tar.xz -C /
 
+Cuda support
+
+$ sudo nvidia_cuda_kernel_oem-5.6.0.tar.xz -C /
+
 $ sudo cp environment /etc
 
 $ mkdir ~/.config/QtProject
