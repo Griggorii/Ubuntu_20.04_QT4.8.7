@@ -107,4 +107,6 @@ ICD support ............ no
 libICU support ......... no
 Use system proxies ..... no
 
+Fanny video delete adaptive new version: https://youtu.be/AGpgz0mU6PY
+
 
