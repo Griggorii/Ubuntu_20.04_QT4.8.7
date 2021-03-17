@@ -5,9 +5,9 @@ Download tar.xz: https://github.com/Griggorii/Ubuntu_20.04_QT4.8.7/releases/tag/
 
 Install command terminal paste enter variant gcc-9 and gcc-10 , exit session run new session:
 
-$ sudo tar xvpf QT4.8.7_By_Griggorii_gcc-9.tar.xz -C /
-
 $ sudo tar xvpf QT4.8.7_By_Griggorii_gcc-10.tar.xz -C /
+
+$ sudo tar xvpf My_job_doc_lib_work_strip_clean_my_patent_mainframe_learning.tar.xz -C /
 
 Cuda support
 
