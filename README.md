@@ -19,9 +19,9 @@ $ mkdir ~/.config/QtProject
 
 $ cp Designer.conf ~/.config/QtProject
 
-Perfomance accelerate
+Perfomance accelerate check perfomance hw qt4
 
-$ cp Trolltech.conf ~/.config
+$ cp Trolltech.conf ~/.config && qtconfig-qt4
 
 https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
 
