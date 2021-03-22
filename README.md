@@ -23,6 +23,10 @@ Perfomance accelerate check perfomance hw qt4
 
 $ cp Trolltech.conf ~/.config && qtconfig-qt4
 
+Ru: Незнаю почему , но ускорение происходит не сразу , а после нескольких перезагрузок входов в сессию , данный феномен пока сам не понял
+
+En:I don’t know why, but the acceleration does not occur immediately, but after several reboots of the logins to the session, this phenomenon has not yet been understood.
+
 https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
 
 https://github.com/Griggorii/Setting_dconf_linux_OS20.04_V46.0_By_Griggorii_Wayland_adaptation
