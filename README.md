@@ -1,7 +1,8 @@
 # Ubuntu_20.04_QT4.8.7 desinger
 Ubuntu , 20.04 , QT4.8.7 , griggorii developer , gui best , fonts not bage , perfomance canvas , old quality , danger only ubuntu 20.04 install < onli libc-2.31.so , mkspecs win32-msvc2015 /usr/share/qt4/mkspecs/win32-msvc2015 , qtshadercache , MiniBrowser , WebKitNetworkProcess , WebKitPluginProcess , WebKitStorageProcess , WebKitWebProcess
 
-Download tar.xz: https://github.com/Griggorii/Ubuntu_20.04_QT4.8.7/releases/tag/QT4.8.7
+Download my build tar.xz: QT4.8.7_By_Griggorii_gcc-9.tar.xz and QT4.8.7_By_Griggorii_gcc-10.tar.xz
+ https://github.com/Griggorii/Ubuntu_20.04_QT4.8.7/releases/tag/QT4.8.7
 
 Install command terminal paste enter variant gcc-9 and gcc-10 , exit session run new session:
 
