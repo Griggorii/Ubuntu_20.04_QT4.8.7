@@ -24,6 +24,10 @@ Perfomance accelerate check perfomance hw qt4
 
 $ cp Trolltech.conf ~/.config && qtconfig-qt4
 
+Version 2 Trolltech_variant_v2.conf rename Trolltech.conf 
+
+$ cp Trolltech.conf ~/.config
+
 Ru: Незнаю почему , но ускорение происходит не сразу , а после нескольких перезагрузок входов в сессию , данный феномен пока сам не понял
 
 En:I don’t know why, but the acceleration does not occur immediately, but after several reboots of the logins to the session, this phenomenon has not yet been understood.
